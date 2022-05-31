@@ -20,6 +20,7 @@
 		B41BADDF28465F0A00DDBEF2 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41BADDE28465F0A00DDBEF2 /* App.swift */; };
 		B41BADE128465F2000DDBEF2 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41BADE028465F2000DDBEF2 /* Bundle-Decodable.swift */; };
 		B41BADE328466C9C00DDBEF2 /* SelfConfiguringCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41BADE228466C9C00DDBEF2 /* SelfConfiguringCell.swift */; };
+		B41BADE528466DA600DDBEF2 /* FeaturedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41BADE428466DA600DDBEF2 /* FeaturedCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		B41BADDE28465F0A00DDBEF2 /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		B41BADE028465F2000DDBEF2 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		B41BADE228466C9C00DDBEF2 /* SelfConfiguringCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfConfiguringCell.swift; sourceTree = "<group>"; };
+		B41BADE428466DA600DDBEF2 /* FeaturedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				B41BADDE28465F0A00DDBEF2 /* App.swift */,
 				B41BADE028465F2000DDBEF2 /* Bundle-Decodable.swift */,
 				B41BADE228466C9C00DDBEF2 /* SelfConfiguringCell.swift */,
+				B41BADE428466DA600DDBEF2 /* FeaturedCell.swift */,
 			);
 			path = TapStore;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				B41BADC128465BCD00DDBEF2 /* AppDelegate.swift in Sources */,
 				B41BADE128465F2000DDBEF2 /* Bundle-Decodable.swift in Sources */,
 				B41BADDF28465F0A00DDBEF2 /* App.swift in Sources */,
+				B41BADE528466DA600DDBEF2 /* FeaturedCell.swift in Sources */,
 				B41BADE328466C9C00DDBEF2 /* SelfConfiguringCell.swift in Sources */,
 				B41BADDB28465EEB00DDBEF2 /* GamesViewController.swift in Sources */,
 				B41BADC328465BCD00DDBEF2 /* SceneDelegate.swift in Sources */,
